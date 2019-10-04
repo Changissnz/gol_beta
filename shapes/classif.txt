@@ -1,0 +1,34 @@
+{
+    "oscillator": [
+        "beacon",
+        "blinker",
+        "figure_eight",
+        "pulsar",
+        "q8",
+        "love",
+        "one",
+        "one2",
+        "three",
+        "four",
+        "twel",
+        "fourten",
+        "four5",
+        "ondsfdsa",
+        "q",
+        "trash"
+    ],
+    "spaceship": [
+        "x-ter",
+        "snail",
+        "spaceship1",
+        "apey"
+    ],
+    "still_life": [
+        "block",
+        "boat",
+        "hive",
+        "loaf",
+        "ship",
+        "tub"
+    ]
+}
